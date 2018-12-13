@@ -79,6 +79,7 @@ color: black;
         }
         .sidebar-tab, .logo-img, .social-area{
             display: flex;
+            flex: 1;
             height: inherit;
             justify-content: center;
             align-items: center;
