@@ -142,11 +142,11 @@ color: white;
 
   @media(max-width: 968px){
       .logo{
-         flex-direction: row;
          justify-content: space-evenly;
       }
       .sidebar-tab, .logo-img, .social-area{
           display: flex;
+          flex: 1;
           height: inherit;
           justify-content: center;
           align-items: center;
