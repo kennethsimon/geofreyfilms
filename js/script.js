@@ -6,9 +6,6 @@ $(document).ready(function(){
     $('.link-area-header a').click(function(){
         $('.link-area-header').hide();
     });
-    $('.animated-link').click(function(){
-        $('.home-page').addClass('animated fadeOutRight delay-1s');
-    });
     $('.link-button').click(function(){
         $('.link-area-header').show();
     });

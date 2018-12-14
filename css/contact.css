@@ -93,10 +93,12 @@ color: black;
         display: flex;
         flex-direction: row;
         position: relative;
+        
     }
     .contact-photo-area{
         flex: 1;
-        height: inherit;
+        height: 100%;
+        padding: 40px;
     }
     .contact-photo-area img{
       width: 100%;
