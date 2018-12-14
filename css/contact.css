@@ -130,3 +130,10 @@ color: black;
     height: 400px;
     background-color: rgb(27, 27, 27);
 }
+@media(max-width: 968px){
+        .form-div{
+            width: 100%;
+            padding: 20px;
+            
+        }
+}

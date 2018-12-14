@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.input-form{
+    width: 100%;
+    height: 1005;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-div{
+    width: 50%;
+    height: 80px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+.form-div input{
+    width: 100%;
+    height: 80%;
+    padding-left: 10px;
+    border: none;
+    font-size: 20px;
+    position: relative;
+}
